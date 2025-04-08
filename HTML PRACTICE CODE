@@ -1,0 +1,28 @@
+Codedex HTML
+07:Favourite Band Website
+
+<!DOCTYPE html>
+<html>
+  <title>bond.html</title>
+  <h1> One Direction </h1>
+  <body>
+    <p>One Direction (1D) was a British-Irish boy band formed in 2010 on "The X Factor" consisting of Niall Horan, Zayn Malik (until his departure in 2015), Liam Payne, Harry Styles, and Louis Tomlinson, who achieved global fame and became one of the best-selling boy bands before going on an indefinite hiatus in 2016.</p>
+    <a href="https://www.onedirectionmusic.com">One Direction Official Website </a>
+      <h3>One Direction Members</h3>
+    <ul>
+      <li>Liam James Payne</li>
+      <li>Harry Edward Styles</li>
+      <li>Zain Javadd "Zayn" Malik</li>
+      <li>Niall James Horan</li>
+      <li>Louis Tomlinson</li>
+    </ul>
+      <h3>One Direction Songs</h3>
+    <ol>
+      <li>Story of My Life</li>
+      <li>Night Changes</li>
+      <li>They Don't Know About Us</li>
+      <li>Still The One</li>
+      <li>One Thing</li>
+    </ol>
+  </body>
+</html>
